@@ -1,3 +1,4 @@
+import os
 def get_configs():
     return os.environ.get('FANTASTIC_CONFIG')
 
